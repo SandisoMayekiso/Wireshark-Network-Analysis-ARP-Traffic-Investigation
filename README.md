@@ -25,7 +25,7 @@ This project reflects the type of packet-level analysis performed by **SOC Analy
 
 ***Frame Number: 10038
 Timestamp: 681.533343 seconds
-Source: Toxx xx_ad:xxx xxx:***
+Source: Toxx xx_ad:xxx xxx:x
 Destination: Broadcast
 Protocol: ARP
 Length: 42 bytes
