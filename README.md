@@ -54,7 +54,8 @@ This behavior is expected and normal in LAN environments.
 ### 3️⃣ Message Interpretation
 
 ***Who has 192.1xx.0.xx? Tell 192.1xx.x.x***
-<img width="1134" height="727" alt="image" src="https://github.com/user-attachments/assets/5d08fedd-f97d-48d6-a0b4-67d39ca208b8" />
+<img width="1134" height="727" alt="image" src="https://github.com/user-attachments/assets/be7e9259-4e76-44a0-b7e9-ee7fd8adae39" />
+
 
 
 
