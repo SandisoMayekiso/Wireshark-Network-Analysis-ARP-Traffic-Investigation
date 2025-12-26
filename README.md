@@ -54,7 +54,8 @@ This behavior is expected and normal in LAN environments.
 ### 3️⃣ Message Interpretation
 
 ***Who has 192.1xx.0.xx? Tell 192.1xx.x.x***
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58a2314e-7c2d-4b46-88eb-4c613918f3c4" />
+<img width="1134" height="727" alt="image" src="https://github.com/user-attachments/assets/5d08fedd-f97d-48d6-a0b4-67d39ca208b8" />
+
 
 
 This means:
@@ -123,7 +124,8 @@ Planned extensions of this project include:
 - Importing PCAP files into **Splunk** for log correlation
 - Creating SOC-style alerts and dashboards
 
----
+## Author: Sandiso Mayekiso
+***Focus: Cybersecurity | Ethical Hacking | IT Engineering***
 
 
 
